@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EŞahadatnama</string>
+    <string name="atasynyn_ady">Atasynyň ady</string>
+    <string name="ady">Ady</string>
+    <string name="familyasy">Familýasy</string>
+    <string name="berlen_yeri">Berlen ýeri</string>
+    <string name="surujilik_sahadatnamasy">Sürüjilik Şahadatnamasy</string>
+    <string name="yatda_sakla">ýatda sakla</string>
+    <string name="suruulik_sahadatnama">sürüjilik\nşahadatnama</string>
+    <string name="bellige_alynan_guwanama">Bellige alynan\nGüwänama</string>
+    <string name="gurat_haty">Gurat haty</string>
+    <string name="doglan_yeri">Doglan Ýeri</string>
+    <string name="guwa_hat_title">Bellige Alnanlygy Hakynda\nGüwänama</string>
+    <string name="masyn_nomer">AA6699AG</string>
+    <string name="masynyn_yyly">Maşynyň ýyly</string>
+    <string name="f_a_a">F A A</string>
+    <string name="yasayan_yeri">Ýaşaýan ýeri</string>
+    <string name="masynyn_markasy">Maşynyň Markasy (TAYOTA CAMRY)</string>
+    <string name="masynyn_renki">Maşynyň Reňki (kümüşsöw)</string>
+    <string name="masynyn_matory">Maşynyň Matorynyň Belgisi (2003719)</string>
+    <string name="guratlyk_haty">Guratlyk Haty</string>
+    <string name="pygg_birligi">PÝGG birligi (Lebap welaýaty)</string>
+    <string name="kysymy">Kysymy (Taýota Camry)</string>
+    <string name="san_belgisi">San belgisi (AA5566AG)</string>
+    <string name="ondurilen_yyly">Öndürilen ýyly (2005)</string>
+    <string name="sayla_surat">saýla</string>
+</resources>
